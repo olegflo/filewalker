@@ -1,0 +1,12 @@
+# Android Studio stuff
+/build
+/.gradle
+/.idea
+*.iml
+
+# Local configuration
+local.properties
+project.properties 
+
+# Mac stuff
+.DS_Store
